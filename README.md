@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 I'm Muhammad Albi Fahrizqi, a student at a vocational high school majoring in **Information Technology (IT)**. I'm passionate about technology and enjoy learning, creating, and exploring new possibilities in the tech world. Here's a little about me:
 
 ## 🔭 What I Do
-- Studying and practicing web development, programming,AI, and AR/VR technology.  
+- Studying and practicing web development, programming, AI, and AR/VR technology.  
 - Working on school projects and building skills for real-world applications.  
 
 ## 💡 Skills
