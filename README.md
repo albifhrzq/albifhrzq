@@ -8,8 +8,8 @@ I'm Muhammad Albi Fahrizqi, a student at a vocational high school majoring in **
 - Working on school projects and building skills for real-world applications.  
 
 ## 💡 Skills
-- **Programming Languages**: PHP, JavaScript, HTML, CSS, Python  
-- **Tools & Frameworks**: Unity, Vuforia Engine, MySQL  
+- **Programming Languages**: PHP, JavaScript, HTML, CSS, Python, c#
+- **Tools & Frameworks**: Unity, Vuforia Engine, MySQL, Laravel
 - **Focus Areas**: Web Development, AR/VR, Machine Learning, Problem Solving  
 
 ## 🌱 What I'm Learning
